@@ -1,17 +1,20 @@
 # feifei-resource-station
 
-数字资源站，提供工具、素材与教程的集中入口。纯静态站点，基于 HTML + Tailwind CSS，可通过 GitHub Pages 部署。
+数字资源站，提供工具、素材与教程的集中入口。
 
-## 页面
+## 功能
 
-- index.html 首页
-- tools.html 工具导航
-- about.html 关于
-- donate.html 赞助
+- 核心能力与基础工具集
+- 支持本地运行与快速部署
+- 附带示例数据与使用说明
 
-## 部署
+## 安装
 
-推送到 main 分支后，GitHub Actions 自动部署到 GitHub Pages。
+克隆仓库后按文档运行，可直接部署或本地使用。
+
+## 使用
+
+参考仓库内文档与示例，按需二次开发扩展。
 
 ## 许可证
 
